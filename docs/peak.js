@@ -2,12 +2,12 @@ document.addEventListener("DOMContentLoaded", () => {
     document.body.style.overflow = "hidden";
 })
 
-let balls = false
+let idk = false
 
 document.addEventListener("keypress", function(event) {
     event.preventDefault();
-    if (event.key === "Enter" && balls === false) {
-        balls = true;
+    if (event.key === "Enter" && idk === false) {
+        idk = true;
         autoSDown()
     }
 });
