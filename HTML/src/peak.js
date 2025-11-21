@@ -412,7 +412,7 @@ CIP1.addEventListener("mouseleave", () => {
 })
 
 CIP1.addEventListener("click", () => {
-    window.open("https://maps.app.goo.gl/AkKebMtVt1g65dMd8")
+    window.open("https://maps.app.goo.gl/iRzua1HwUskY4Vw56")
 })
 
 CIP2.addEventListener("mouseover", () => {
@@ -425,6 +425,10 @@ CIP2.addEventListener("mouseleave", () => {
    CIP2.style.cursor = 'default'
 })
 
+CIP2.addEventListener("click", () => {
+    window.open("https://maps.app.goo.gl/o8Mgjf599TVwjufH9")
+})
+
 CIP3.addEventListener("mouseover", () => {
    CIP3.style.transform = `scale(1.05)`
    CIP3.style.cursor = 'pointer'
@@ -433,6 +437,10 @@ CIP3.addEventListener("mouseover", () => {
 CIP3.addEventListener("mouseleave", () => {
    CIP3.style.transform = `scale(1.0)`
    CIP3.style.cursor = 'default'
+})
+
+CIP3.addEventListener("click", () => {
+    window.open("https://maps.app.goo.gl/J8W4zoErDPUFaRHD6")
 })
 
 CIP4.addEventListener("mouseover", () => {
@@ -445,6 +453,10 @@ CIP4.addEventListener("mouseleave", () => {
    CIP4.style.cursor = 'default'
 })
 
+CIP4.addEventListener("click", () => {
+    window.open("https://maps.app.goo.gl/ibruyDJS8p7hvFyA8")
+})
+
 CIP5.addEventListener("mouseover", () => {
    CIP5.style.transform = `scale(1.05)`
    CIP5.style.cursor = 'pointer'
@@ -455,6 +467,10 @@ CIP5.addEventListener("mouseleave", () => {
    CIP5.style.cursor = 'default'
 })
 
+CIP5.addEventListener("click", () => {
+    window.open("https://maps.app.goo.gl/6pfTH3Zvme63Lic76")
+})
+
 CIP6.addEventListener("mouseover", () => {
    CIP6.style.transform = `scale(1.05)`
    CIP6.style.cursor = 'pointer'
@@ -463,6 +479,10 @@ CIP6.addEventListener("mouseover", () => {
 CIP6.addEventListener("mouseleave", () => {
    CIP6.style.transform = `scale(1.0)`
    CIP6.style.cursor = 'default'
+})
+
+CIP6.addEventListener("click", () => {
+    window.open("https://maps.app.goo.gl/z1vpnNZwGG66pyfD6")
 })
 
 Loc1.addEventListener("mouseover", () => {
