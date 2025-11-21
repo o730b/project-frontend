@@ -496,7 +496,7 @@ Loc1.addEventListener("mouseleave", () => {
 })
 
 Loc1.addEventListener("click", () => {
-   
+    window.open("https://maps.app.goo.gl/29fJiZdqHE24RXXi7")
 })
 
 Loc2.addEventListener("mouseover", () => {
