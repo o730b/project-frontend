@@ -1,2 +1,0 @@
--Tailwind dipakai
--resolusi 1920x1080 untuk mendapatkan visual yang diinginkan
