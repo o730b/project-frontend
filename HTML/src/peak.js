@@ -114,8 +114,8 @@ function popTextItem2() {
 function quotePop() {
     let quoteText = "One cannot think well, love well, sleep well, if one has not dined well - Virginia Woolf"
     let quote1 = document.getElementById("quote1")
-    let t = window.scrollY - 2029
-    let n = 2291 - 2029
+    let t = window.scrollY - 6328
+    let n = 6865 - 6328
 
     let interpolatedVal = Math.round(88 * (t / n))
     quote1.textContent = quoteText.substring(0, interpolatedVal)
@@ -126,8 +126,8 @@ let alun = document.getElementById("alun")
 function alunPop() {
     let y0 = 1
     let yN = 2
-    let t = window.scrollY - 2701
-    let n = 3619 - 2701
+    let t = window.scrollY - 7260
+    let n = 8226 - 7260
 
     let interpolatedVal = expinterpolate(y0, yN, t, n) / 2
     interpolatedVal = Math.min(Math.max(interpolatedVal, 0), 1)
@@ -141,8 +141,8 @@ let asal = document.getElementById("asal")
 function etPop() {
     let y0 = -550
     let yN = -750
-    let t = window.scrollY - 3617
-    let n = 4035 - 3617
+    let t = window.scrollY - 8251
+    let n = 8639 - 8251
 
     let interpolatedVal = expinterpolate(y0, yN, t, n)
     interpolatedVal = Math.min(Math.max(interpolatedVal, -750), -550)
@@ -152,8 +152,8 @@ function etPop() {
 function asalPop() {
     let y0 = -350
     let yN = -475
-    let t = window.scrollY - 4025
-    let n = 4331 - 4025
+    let t = window.scrollY - 8659
+    let n = 9120 - 8659
 
     let interpolatedVal = expinterpolate(y0, yN, t, n)
     interpolatedVal = Math.min(Math.max(interpolatedVal, -475), -350)
@@ -268,7 +268,7 @@ Loc1.addEventListener("mouseleave", () => {
 })
 
 Loc1.addEventListener("click", () => {
-    window.open("https://maps.app.goo.gl/iYz2p153mjim1kpU7")
+   
 })
 
 Loc2.addEventListener("mouseover", () => {
