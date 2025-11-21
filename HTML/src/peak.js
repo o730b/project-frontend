@@ -183,6 +183,10 @@ CIP1.addEventListener("mouseleave", () => {
    CIP1.style.cursor = 'default'
 })
 
+CIP1.addEventListener("click", () => {
+    window.open("https://maps.app.goo.gl/AkKebMtVt1g65dMd8")
+})
+
 CIP2.addEventListener("mouseover", () => {
    CIP2.style.transform = `scale(1.05)`
    CIP2.style.cursor = 'pointer'
@@ -242,7 +246,7 @@ Loc3.addEventListener("mouseleave", () => {
 })
 
 Loc3.addEventListener("click", () => {
-    window.open("https://maps.app.goo.gl/AkKebMtVt1g65dMd8")
+    window.open("https://maps.app.goo.gl/XfPmAiPhaouK42Ax5")
 })
 
 Loc4.addEventListener("mouseover", () => {
@@ -256,7 +260,7 @@ Loc4.addEventListener("mouseleave", () => {
 })
 
 Loc4.addEventListener("click", () => {
-    window.open("https://maps.app.goo.gl/AkKebMtVt1g65dMd8")
+    window.open("https://maps.app.goo.gl/umeax1K9tFUbX9wR6")
 })
 
 Loc5.addEventListener("mouseover", () => {
@@ -270,7 +274,7 @@ Loc5.addEventListener("mouseleave", () => {
 })
 
 Loc5.addEventListener("click", () => {
-    window.open("https://maps.app.goo.gl/AkKebMtVt1g65dMd8")
+    window.open("https://maps.app.goo.gl/3K5cPFWXQG1e2VLH9")
 })
 
 Loc6.addEventListener("mouseover", () => {
@@ -284,7 +288,7 @@ Loc6.addEventListener("mouseleave", () => {
 })
 
 Loc6.addEventListener("click", () => {
-    window.open("https://maps.app.goo.gl/AkKebMtVt1g65dMd8")
+    window.open("https://maps.app.goo.gl/7Te1e4ZuZsLBwzmf8")
 })
 
 Loc7.addEventListener("mouseover", () => {
@@ -298,7 +302,7 @@ Loc7.addEventListener("mouseleave", () => {
 })
 
 Loc7.addEventListener("click", () => {
-    window.open("https://maps.app.goo.gl/AkKebMtVt1g65dMd8")
+    window.open("https://maps.app.goo.gl/tDnNCsfiEXg4QSAZ9")
 })
 
 Loc8.addEventListener("mouseover", () => {
@@ -312,7 +316,7 @@ Loc8.addEventListener("mouseleave", () => {
 })
 
 Loc8.addEventListener("click", () => {
-    window.open("https://maps.app.goo.gl/AkKebMtVt1g65dMd8")
+    window.open("https://maps.app.goo.gl/QrBTrDJ9Mx4uUNYP6")
 })
 
 Loc9.addEventListener("mouseover", () => {
@@ -326,7 +330,7 @@ Loc9.addEventListener("mouseleave", () => {
 })
 
 Loc9.addEventListener("click", () => {
-    window.open("https://maps.app.goo.gl/AkKebMtVt1g65dMd8")
+    window.open("https://maps.app.goo.gl/XoBjvV4GexyydD1t5")
 })
 
 function culinaryOp() {
