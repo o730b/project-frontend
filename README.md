@@ -1,2 +1,2 @@
 # project frontend
-diky cilok
+Ngawi city web infografis
